@@ -9,7 +9,7 @@ I use this repository to keep track of useful open-source tools and references I
 
 - 🛠️ **Security Tools**  
   - [Pentesting](tools/pentesting.md)  
-  - [Forensics](tools/forensic.md)  
+  - [Threat Map](tools/threat.md)  
   - [Network Monitoring](tools/monitoring.md)  
   - [OSINT](tools/osint.md)  
 
